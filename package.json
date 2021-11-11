@@ -1,8 +1,8 @@
 {
   "name": "grocery",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Alex McKenzie",
+  "homepage": "https://alexthedeveloper.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
